@@ -1,0 +1,9 @@
+-Wall
+-DDBNAME=dss
+-DLINUX
+-DVECTORWISE
+-DTPCH
+-DRNG_TEST
+-D_FILE_OFFSET_BITS=64
+-g
+-I$HOME/Projects/pytpch/src/tpch-dbgen
